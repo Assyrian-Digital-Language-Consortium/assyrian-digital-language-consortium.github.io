@@ -2684,6 +2684,16 @@ input, select, textarea {
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
+		
+		.features article .inner-full {
+			display: inline-block;
+			vertical-align: middle;
+			width: 100%;
+		}
+
+			.features article .inner-full > :last-child {
+				margin-bottom: 0;
+			}
 
 /* Header */
 
